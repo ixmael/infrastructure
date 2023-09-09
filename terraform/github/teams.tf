@@ -164,6 +164,13 @@ locals {
       ]
     }
 
+    asdf-exercism = {
+      description = "The people with push access to the asdf-exercism repository"
+      maintainers = [
+        "ixmael",
+      ]
+    }
+
     asdf-elm = {
       description = "The people with push access to the asdf-elm repository"
       maintainers = [
